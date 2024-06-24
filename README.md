@@ -1,0 +1,1 @@
+# openai-sql-query-generator
